@@ -1,0 +1,12 @@
+ITEM.name = "Smartphone"
+ITEM.model = ("models/kek1ch/iphone.mdl")
+ITEM.description = "A smartphone, much like what everyone owned prior to, you know, becoming zombies."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.5

@@ -1,0 +1,12 @@
+ITEM.name = "Pot"
+ITEM.model = ("models/props_interiors/pot02a.mdl")
+ITEM.description = "Time to blaze it."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 1

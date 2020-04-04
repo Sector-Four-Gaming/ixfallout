@@ -1,0 +1,12 @@
+ITEM.name = "Broken Radio"
+ITEM.model = ("models/props/cs_office/radio.mdl")
+ITEM.description = "A now broken radio. Not very useful, unless you consider its scrap value."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.5

@@ -1,0 +1,10 @@
+ITEM.name = "Complete Cleaning Kit"
+ITEM.description = "A complete cleaning kit with all the necessary tools and materials to fully maintain a weapon."
+ITEM.category = "Repair"
+ITEM.model = "models/kek1ch/cleaning_kit_u.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.price = 800
+ITEM.busflag = {"technician1_1_1"}
+ITEM.weight = 1
+ITEM.repair = 50

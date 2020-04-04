@@ -1,0 +1,12 @@
+ITEM.name = "Metal Gas Can"
+ITEM.model = ("models/props_junk/metalgascan.mdl")
+ITEM.description = "An empty metal gas can."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 1.5

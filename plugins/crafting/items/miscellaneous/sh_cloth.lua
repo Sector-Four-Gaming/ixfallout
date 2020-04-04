@@ -1,0 +1,12 @@
+ITEM.name = "Cloth"
+ITEM.model = ("models/kek1ch/textile_patch_b.mdl")
+ITEM.description = "A small patch of cloth, useful for all sorts of things."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.1

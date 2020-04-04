@@ -1,0 +1,12 @@
+ITEM.name = "Bucket"
+ITEM.model = ("models/props_junk/metalbucket01a.mdl")
+ITEM.description = "A bucket. This isn't a very deep description, but neither is this bucket."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.5

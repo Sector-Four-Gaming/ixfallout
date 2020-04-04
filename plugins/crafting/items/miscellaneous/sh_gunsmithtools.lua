@@ -1,0 +1,12 @@
+ITEM.name = "Gunsmithing Tools"
+ITEM.model = ("models/kek1ch/box_toolkit_2.mdl")
+ITEM.description = "A set of tools explicitly meant for gunsmiths."
+ITEM.price = 500
+ITEM.flag = "2"
+ITEM.category = "Tools"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 1
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 2

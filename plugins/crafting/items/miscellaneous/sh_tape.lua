@@ -1,0 +1,12 @@
+ITEM.name = "Tape"
+ITEM.model = ("models/kek1ch/armor_repair_fa.mdl")
+ITEM.description = "Tape, for holding things together."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.1

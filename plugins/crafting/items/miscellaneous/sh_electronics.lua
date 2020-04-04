@@ -1,0 +1,12 @@
+ITEM.name = "Electronics"
+ITEM.model = ("models/kek1ch/materials_textolite.mdl")
+ITEM.description = "Electronic components, for use in creating and maintaining various technological devices."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.1

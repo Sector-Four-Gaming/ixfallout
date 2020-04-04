@@ -1,0 +1,12 @@
+ITEM.name = "Laptop"
+ITEM.model = ("models/kek1ch/notebook.mdl")
+ITEM.description = "While the battery is dead, and the charger is gone, this is still a valuable resource for scrapping."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 1
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 2.5

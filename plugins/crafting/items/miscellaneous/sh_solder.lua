@@ -1,0 +1,12 @@
+ITEM.name = "Solder"
+ITEM.model = ("models/kek1ch/nitka_sint.mdl")
+ITEM.description = "An essential component of any electronics project."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 50
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.1

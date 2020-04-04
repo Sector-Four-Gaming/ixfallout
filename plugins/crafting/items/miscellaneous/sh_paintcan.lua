@@ -1,0 +1,12 @@
+ITEM.name = "Empty Paint Can"
+ITEM.model = ("models/props_junk/metal_paintcan001b.mdl")
+ITEM.description = "An empty metal paint can."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.5

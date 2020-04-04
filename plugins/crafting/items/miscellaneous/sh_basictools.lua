@@ -1,0 +1,12 @@
+ITEM.name = "Basic Tools"
+ITEM.model = ("models/kek1ch/repairkit_p.mdl")
+ITEM.description = "A simple set of tools, such as a hammer, screwdrivers, and a few commonly needed wrenches."
+ITEM.price = 50
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 1
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 2

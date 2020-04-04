@@ -1,0 +1,10 @@
+ITEM.name = "Medium Gun Oil"
+ITEM.description = "A medium sized container of gun oil, for lubricating a weapon after use."
+ITEM.category = "Repair"
+ITEM.model = "models/kek1ch/gun_oil_ru.mdl"
+ITEM.width = 1
+ITEM.height = 2
+ITEM.price = 800
+ITEM.busflag = {"technician1_1"}
+ITEM.weight = 0.35
+ITEM.repair = 5

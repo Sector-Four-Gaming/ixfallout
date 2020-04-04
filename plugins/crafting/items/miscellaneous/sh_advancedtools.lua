@@ -1,0 +1,12 @@
+ITEM.name = "Advanced Tools"
+ITEM.model = ("models/kek1ch/box_toolkit_2.mdl")
+ITEM.description = "A set of tools containing various special application tools, bits, parts, and so on."
+ITEM.price = 50
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 1
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 2

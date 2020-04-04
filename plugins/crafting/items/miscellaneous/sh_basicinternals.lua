@@ -1,0 +1,13 @@
+ITEM.name = "Basic Firearm Internals"
+ITEM.model = ("models/kek1ch/dev_merger.mdl")
+ITEM.description = "A basic set of internals for a firearm with some spare parts."
+ITEM.price = 500
+ITEM.flag = "a"
+ITEM.category = "Misc"
+ITEM.basequantity = 1
+ITEM.quantity = 1
+ITEM.maxQuantity = 5
+ITEM.isStackable = false
+ITEM.canSplit = true
+ITEM.weight = 0.5
+ITEM.color = Color(12,176,0)
